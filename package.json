@@ -14,7 +14,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.5.0",
     "@fortawesome/vue-fontawesome": "^0.1.2",
     "aos": "^3.0.0-beta.6",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "epic-spinners": "^1.0.4",
     "vue": "^2.5.2",
     "vue-mq": "^0.2.1",
